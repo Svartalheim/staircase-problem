@@ -1,5 +1,3 @@
-Berikut adalah terjemahan dokumen `README.md` tersebut ke dalam Bahasa Indonesia dengan gaya bahasa akademis yang sesuai untuk Tugas Besar.
-
 ---
 
 # Analisis Kompleksitas Algoritma: Permasalahan Tangga (Staircase Problem)
