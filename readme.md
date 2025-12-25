@@ -1,7 +1,5 @@
 ---
-
 # Analisis Kompleksitas Algoritma: Permasalahan Tangga (Staircase Problem)
-
 **Mata Kuliah:** Analisis Kompleksitas Algoritma (AKA)
 **Semester:** 3
 **Tugas:** Tugas Besar
